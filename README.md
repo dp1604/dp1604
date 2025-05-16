@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dinitha Gamage
-- 👀 I’m interested in almost anything, we are Humans right ? 
-- 🌱 I’m currently learning, and working, and learning, I mean.. Can we finish learning ?
-- 💞️ I’m looking to collaborate on any project that will help humans evolve...
+
